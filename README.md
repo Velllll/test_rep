@@ -1,41 +1,16 @@
-# TEST PROJECT 
+git init - инициализировать проект 
 
-## Descriptio
+git add . (. - путь к файлу ) - дрбавить измененные файлы 
 
-asjnkdnjksadnjkadsjk
+git commit -m "" (-m - message) - сделать сохранение (коммит)
 
-asdasdads
-asklmdadlksmkmnladsl
-asdklmaldksmmkladsklm# TEST PROJECT 
+git push - залить изменения 
 
-## Descriptio
 
-asjnkdnjksadnjkadsjk
+<!--  -->
 
-asdasdads
-asklmdadlksmkmnladsl
-asdklmaldksmmkladsklm# TEST PROJECT 
+git checkout -b NAME_OF_BRANCH - ответвиться от ветки в которой находишься 
 
-## Descriptio
+git merge NAME_OF_BRANCH - залить ветку в ту в которой ноходишься 
 
-asjnkdnjksadnjkadsjk
-
-asdasdads
-asklmdadlksmkmnladsl
-asdklmaldksmmkladsklm# TEST PROJECT 
-
-## Descriptio
-
-asjnkdnjksadnjkadsjk
-
-asdasdads
-asklmdadlksmkmnladsl
-asdklmaldksmmkladsklm# TEST PROJECT 
-
-## Descriptio
-
-asjnkdnjksadnjkadsjk
-
-asdasdads
-asklmdadlksmkmnladsl
-asdklmaldksmmkladsklm
+git branch -D NAME_OF_BRANCH - удалить ветку
